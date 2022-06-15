@@ -54,9 +54,9 @@ This repo (which is currently a work in progress) contains some writeups for tho
 
 **Web Security**
 - [ ] CCRacer
-- [ ] Flagify-1
+- [x] [Flagify-1](https://github.com/thelicato/cyberchallenge-writeups/tree/main/2021/WS_Flagify-1)
 - [ ] babysql
-- [ ] Flagify-2
+- [x] [Flagify-2](https://github.com/thelicato/cyberchallenge-writeups/tree/main/2021/WS_Flagify-2)
 
 **Network Security**
 - [ ] Listen to me
